@@ -1,5 +1,5 @@
 # m2finder
-→ a simple tool to find magic methods in a php project
+→ a simple tool to find magic methods in a php project, i developed this to help me to find insecure deserialization gadgets in my recent researches
 
 ## install
 ```bash
