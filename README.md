@@ -4,7 +4,7 @@
 ## usage
 ```bash
 ➜  ~ git clone https://github.com/b4sh0xf/m2finder.git && cd m2finder
-➜  m2finder chmod +x magic.sh && mv magic.sh /usr/bin/magic
+➜  m2finder sh install.sh
 ➜  m2finder cd ../php-project
 ➜  php-project magic
 [+] looking for magic methods...
