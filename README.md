@@ -7,5 +7,6 @@
 ➜  m2finder sh install.sh
 ```
 
-## real usage
-<img width="1467" height="188" alt="image" src="https://github.com/user-attachments/assets/251e492e-f431-47c3-b0cf-1be8f631c5d5" />
+## usage
+<img width="1081" height="616" alt="image" src="https://github.com/user-attachments/assets/b1dfbb9b-cec3-4dee-ba18-1ddc51233d9f" />
+
